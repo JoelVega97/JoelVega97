@@ -8,8 +8,6 @@ Skills: JS/ Java Spring/ HTML/ CSS/ React
 
 - 🔭 I’m currently working on this page. 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="13f5b5bd-f80e-4d8b-ac5a-fbd7e0e5af74" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoelVega97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joel-vega/)  
 
